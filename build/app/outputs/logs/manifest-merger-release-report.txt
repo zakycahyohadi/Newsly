@@ -1,0 +1,288 @@
+-- Merging decision tree log ---
+application
+INJECTED from /Users/cahyoapple45/Documents/flutter-project/api_news/android/app/src/main/AndroidManifest.xml:2:5-33:19
+INJECTED from /Users/cahyoapple45/Documents/flutter-project/api_news/android/app/src/main/AndroidManifest.xml:2:5-33:19
+MERGED from [:url_launcher_android] /Users/cahyoapple45/Documents/flutter-project/api_news/build/url_launcher_android/intermediates/merged_manifest/release/AndroidManifest.xml:7:5-12:19
+MERGED from [:url_launcher_android] /Users/cahyoapple45/Documents/flutter-project/api_news/build/url_launcher_android/intermediates/merged_manifest/release/AndroidManifest.xml:7:5-12:19
+MERGED from [androidx.window:window:1.2.0] /Users/cahyoapple45/.gradle/caches/transforms-3/4ebb674aa41412bc7425383262a543b4/transformed/jetified-window-1.2.0/AndroidManifest.xml:22:5-29:19
+MERGED from [androidx.window:window:1.2.0] /Users/cahyoapple45/.gradle/caches/transforms-3/4ebb674aa41412bc7425383262a543b4/transformed/jetified-window-1.2.0/AndroidManifest.xml:22:5-29:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/cahyoapple45/.gradle/caches/transforms-3/f9ded53b8d55eaa10a5be647a1329cf9/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/cahyoapple45/.gradle/caches/transforms-3/f9ded53b8d55eaa10a5be647a1329cf9/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.13.1] /Users/cahyoapple45/.gradle/caches/transforms-3/dd1864a705b6759b642410eb2c889f8d/transformed/core-1.13.1/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.13.1] /Users/cahyoapple45/.gradle/caches/transforms-3/dd1864a705b6759b642410eb2c889f8d/transformed/core-1.13.1/AndroidManifest.xml:28:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/cahyoapple45/.gradle/caches/transforms-3/62ae29cf385f9ead14b19413155ddfa4/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/cahyoapple45/.gradle/caches/transforms-3/62ae29cf385f9ead14b19413155ddfa4/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/cahyoapple45/.gradle/caches/transforms-3/a90c82843e8fe5edc6502e3e0ddffa34/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/cahyoapple45/.gradle/caches/transforms-3/a90c82843e8fe5edc6502e3e0ddffa34/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/cahyoapple45/.gradle/caches/transforms-3/56bcd9de62d8cabb4e0a5f5e537bb37a/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/cahyoapple45/.gradle/caches/transforms-3/56bcd9de62d8cabb4e0a5f5e537bb37a/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+	android:extractNativeLibs
+		INJECTED from /Users/cahyoapple45/Documents/flutter-project/api_news/android/app/src/main/AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.13.1] /Users/cahyoapple45/.gradle/caches/transforms-3/dd1864a705b6759b642410eb2c889f8d/transformed/core-1.13.1/AndroidManifest.xml:28:18-86
+	android:label
+		ADDED from /Users/cahyoapple45/Documents/flutter-project/api_news/android/app/src/main/AndroidManifest.xml:3:9-33
+	android:icon
+		ADDED from /Users/cahyoapple45/Documents/flutter-project/api_news/android/app/src/main/AndroidManifest.xml:5:9-43
+	android:name
+		INJECTED from /Users/cahyoapple45/Documents/flutter-project/api_news/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/cahyoapple45/Documents/flutter-project/api_news/android/app/src/main/AndroidManifest.xml:4:9-42
+manifest
+ADDED from /Users/cahyoapple45/Documents/flutter-project/api_news/android/app/src/main/AndroidManifest.xml:1:1-45:12
+INJECTED from /Users/cahyoapple45/Documents/flutter-project/api_news/android/app/src/main/AndroidManifest.xml:1:1-45:12
+INJECTED from /Users/cahyoapple45/Documents/flutter-project/api_news/android/app/src/main/AndroidManifest.xml:1:1-45:12
+INJECTED from /Users/cahyoapple45/Documents/flutter-project/api_news/android/app/src/main/AndroidManifest.xml:1:1-45:12
+MERGED from [:url_launcher_android] /Users/cahyoapple45/Documents/flutter-project/api_news/build/url_launcher_android/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-14:12
+MERGED from [androidx.browser:browser:1.8.0] /Users/cahyoapple45/.gradle/caches/transforms-3/709b26aeaf541d4257ba905f33d2cc46/transformed/browser-1.8.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.window:window:1.2.0] /Users/cahyoapple45/.gradle/caches/transforms-3/4ebb674aa41412bc7425383262a543b4/transformed/jetified-window-1.2.0/AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.window:window-java:1.2.0] /Users/cahyoapple45/.gradle/caches/transforms-3/888143a07fdc2fd3bbd890278e61db87/transformed/jetified-window-java-1.2.0/AndroidManifest.xml:17:1-21:12
+MERGED from [androidx.fragment:fragment:1.7.1] /Users/cahyoapple45/.gradle/caches/transforms-3/74d747bf5a2df4cbc887642510ce7085/transformed/fragment-1.7.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity:1.8.1] /Users/cahyoapple45/.gradle/caches/transforms-3/4f72c04b8482dcdb24b8d073d79f2516/transformed/jetified-activity-1.8.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/cahyoapple45/.gradle/caches/transforms-3/08a1cc67439be4028a1379b8a3d3d71f/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/cahyoapple45/.gradle/caches/transforms-3/0f7ee66c12878bbb2b4d8071cbc28887/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] /Users/cahyoapple45/.gradle/caches/transforms-3/a09ec6cb412a6b4e9dd0bc63c644afb6/transformed/jetified-lifecycle-livedata-core-ktx-2.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] /Users/cahyoapple45/.gradle/caches/transforms-3/5d4d99f117f20b7c330406641480f284/transformed/lifecycle-livedata-2.7.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] /Users/cahyoapple45/.gradle/caches/transforms-3/d6f55652d133759bf47167968a19049a/transformed/lifecycle-viewmodel-2.7.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] /Users/cahyoapple45/.gradle/caches/transforms-3/791ac3879b79debb20a9bcb91ee22350/transformed/lifecycle-livedata-core-2.7.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/cahyoapple45/.gradle/caches/transforms-3/c7f356c6b7bc4a1b9bddc504383cad4c/transformed/jetified-savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] /Users/cahyoapple45/.gradle/caches/transforms-3/510382138e25354741379153c2a8cfd9/transformed/lifecycle-runtime-2.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/cahyoapple45/.gradle/caches/transforms-3/f9ded53b8d55eaa10a5be647a1329cf9/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] /Users/cahyoapple45/.gradle/caches/transforms-3/60a3658e20535e19d04304b113218131/transformed/jetified-lifecycle-viewmodel-savedstate-2.7.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.13.1] /Users/cahyoapple45/.gradle/caches/transforms-3/97aa38d7910a05b33d1deb335f58a4ed/transformed/jetified-core-ktx-1.13.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/cahyoapple45/.gradle/caches/transforms-3/3a570911098c199bc711d6071529b3b5/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.13.1] /Users/cahyoapple45/.gradle/caches/transforms-3/dd1864a705b6759b642410eb2c889f8d/transformed/core-1.13.1/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /Users/cahyoapple45/.gradle/caches/transforms-3/3cc8aafa8789d8888ff9fd49efac017e/transformed/jetified-annotation-experimental-1.4.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/cahyoapple45/.gradle/caches/transforms-3/fee8f31d98732e28922394d44cf04d18/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/cahyoapple45/.gradle/caches/transforms-3/62ae29cf385f9ead14b19413155ddfa4/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/cahyoapple45/.gradle/caches/transforms-3/a90c82843e8fe5edc6502e3e0ddffa34/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/cahyoapple45/.gradle/caches/transforms-3/56bcd9de62d8cabb4e0a5f5e537bb37a/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.2.0] /Users/cahyoapple45/.gradle/caches/transforms-3/16c628e648c3c982620cd59df1f630f7/transformed/jetified-tracing-1.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/cahyoapple45/.gradle/caches/transforms-3/3ff4ea69d6eb1542848adbfb5eed75ee/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.window.extensions.core:core:1.0.0] /Users/cahyoapple45/.gradle/caches/transforms-3/952bd0f190fb86eeb742e5703b540c87/transformed/jetified-core-1.0.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.getkeepsafe.relinker:relinker:1.4.5] /Users/cahyoapple45/.gradle/caches/transforms-3/8da9480dfc7074c45b43e89ccdb849a3/transformed/jetified-relinker-1.4.5/AndroidManifest.xml:2:1-7:12
+	package
+		INJECTED from /Users/cahyoapple45/Documents/flutter-project/api_news/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/cahyoapple45/Documents/flutter-project/api_news/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/cahyoapple45/Documents/flutter-project/api_news/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/cahyoapple45/Documents/flutter-project/api_news/android/app/src/main/AndroidManifest.xml:1:11-69
+queries
+ADDED from /Users/cahyoapple45/Documents/flutter-project/api_news/android/app/src/main/AndroidManifest.xml:39:5-44:15
+intent#action:name:android.intent.action.PROCESS_TEXT+data:mimeType:text/plain
+ADDED from /Users/cahyoapple45/Documents/flutter-project/api_news/android/app/src/main/AndroidManifest.xml:40:9-43:18
+action#android.intent.action.PROCESS_TEXT
+ADDED from /Users/cahyoapple45/Documents/flutter-project/api_news/android/app/src/main/AndroidManifest.xml:41:13-72
+	android:name
+		ADDED from /Users/cahyoapple45/Documents/flutter-project/api_news/android/app/src/main/AndroidManifest.xml:41:21-70
+data
+ADDED from /Users/cahyoapple45/Documents/flutter-project/api_news/android/app/src/main/AndroidManifest.xml:42:13-50
+	android:mimeType
+		ADDED from /Users/cahyoapple45/Documents/flutter-project/api_news/android/app/src/main/AndroidManifest.xml:42:19-48
+activity#com.example.api_news.MainActivity
+ADDED from /Users/cahyoapple45/Documents/flutter-project/api_news/android/app/src/main/AndroidManifest.xml:6:9-27:20
+	android:launchMode
+		ADDED from /Users/cahyoapple45/Documents/flutter-project/api_news/android/app/src/main/AndroidManifest.xml:9:13-43
+	android:hardwareAccelerated
+		ADDED from /Users/cahyoapple45/Documents/flutter-project/api_news/android/app/src/main/AndroidManifest.xml:13:13-47
+	android:windowSoftInputMode
+		ADDED from /Users/cahyoapple45/Documents/flutter-project/api_news/android/app/src/main/AndroidManifest.xml:14:13-55
+	android:exported
+		ADDED from /Users/cahyoapple45/Documents/flutter-project/api_news/android/app/src/main/AndroidManifest.xml:8:13-36
+	android:configChanges
+		ADDED from /Users/cahyoapple45/Documents/flutter-project/api_news/android/app/src/main/AndroidManifest.xml:12:13-163
+	android:theme
+		ADDED from /Users/cahyoapple45/Documents/flutter-project/api_news/android/app/src/main/AndroidManifest.xml:11:13-47
+	android:taskAffinity
+		ADDED from /Users/cahyoapple45/Documents/flutter-project/api_news/android/app/src/main/AndroidManifest.xml:10:13-36
+	android:name
+		ADDED from /Users/cahyoapple45/Documents/flutter-project/api_news/android/app/src/main/AndroidManifest.xml:7:13-41
+meta-data#io.flutter.embedding.android.NormalTheme
+ADDED from /Users/cahyoapple45/Documents/flutter-project/api_news/android/app/src/main/AndroidManifest.xml:19:13-22:17
+	android:resource
+		ADDED from /Users/cahyoapple45/Documents/flutter-project/api_news/android/app/src/main/AndroidManifest.xml:21:15-52
+	android:name
+		ADDED from /Users/cahyoapple45/Documents/flutter-project/api_news/android/app/src/main/AndroidManifest.xml:20:15-70
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/cahyoapple45/Documents/flutter-project/api_news/android/app/src/main/AndroidManifest.xml:23:13-26:29
+action#android.intent.action.MAIN
+ADDED from /Users/cahyoapple45/Documents/flutter-project/api_news/android/app/src/main/AndroidManifest.xml:24:17-68
+	android:name
+		ADDED from /Users/cahyoapple45/Documents/flutter-project/api_news/android/app/src/main/AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/cahyoapple45/Documents/flutter-project/api_news/android/app/src/main/AndroidManifest.xml:25:17-76
+	android:name
+		ADDED from /Users/cahyoapple45/Documents/flutter-project/api_news/android/app/src/main/AndroidManifest.xml:25:27-74
+meta-data#flutterEmbedding
+ADDED from /Users/cahyoapple45/Documents/flutter-project/api_news/android/app/src/main/AndroidManifest.xml:30:9-32:33
+	android:value
+		ADDED from /Users/cahyoapple45/Documents/flutter-project/api_news/android/app/src/main/AndroidManifest.xml:32:13-30
+	android:name
+		ADDED from /Users/cahyoapple45/Documents/flutter-project/api_news/android/app/src/main/AndroidManifest.xml:31:13-44
+uses-sdk
+INJECTED from /Users/cahyoapple45/Documents/flutter-project/api_news/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/cahyoapple45/Documents/flutter-project/api_news/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/cahyoapple45/Documents/flutter-project/api_news/android/app/src/main/AndroidManifest.xml
+MERGED from [:url_launcher_android] /Users/cahyoapple45/Documents/flutter-project/api_news/build/url_launcher_android/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher_android] /Users/cahyoapple45/Documents/flutter-project/api_news/build/url_launcher_android/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.browser:browser:1.8.0] /Users/cahyoapple45/.gradle/caches/transforms-3/709b26aeaf541d4257ba905f33d2cc46/transformed/browser-1.8.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.browser:browser:1.8.0] /Users/cahyoapple45/.gradle/caches/transforms-3/709b26aeaf541d4257ba905f33d2cc46/transformed/browser-1.8.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.window:window:1.2.0] /Users/cahyoapple45/.gradle/caches/transforms-3/4ebb674aa41412bc7425383262a543b4/transformed/jetified-window-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.window:window:1.2.0] /Users/cahyoapple45/.gradle/caches/transforms-3/4ebb674aa41412bc7425383262a543b4/transformed/jetified-window-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.window:window-java:1.2.0] /Users/cahyoapple45/.gradle/caches/transforms-3/888143a07fdc2fd3bbd890278e61db87/transformed/jetified-window-java-1.2.0/AndroidManifest.xml:19:5-44
+MERGED from [androidx.window:window-java:1.2.0] /Users/cahyoapple45/.gradle/caches/transforms-3/888143a07fdc2fd3bbd890278e61db87/transformed/jetified-window-java-1.2.0/AndroidManifest.xml:19:5-44
+MERGED from [androidx.fragment:fragment:1.7.1] /Users/cahyoapple45/.gradle/caches/transforms-3/74d747bf5a2df4cbc887642510ce7085/transformed/fragment-1.7.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment:1.7.1] /Users/cahyoapple45/.gradle/caches/transforms-3/74d747bf5a2df4cbc887642510ce7085/transformed/fragment-1.7.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity:1.8.1] /Users/cahyoapple45/.gradle/caches/transforms-3/4f72c04b8482dcdb24b8d073d79f2516/transformed/jetified-activity-1.8.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.1] /Users/cahyoapple45/.gradle/caches/transforms-3/4f72c04b8482dcdb24b8d073d79f2516/transformed/jetified-activity-1.8.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/cahyoapple45/.gradle/caches/transforms-3/08a1cc67439be4028a1379b8a3d3d71f/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/cahyoapple45/.gradle/caches/transforms-3/08a1cc67439be4028a1379b8a3d3d71f/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/cahyoapple45/.gradle/caches/transforms-3/0f7ee66c12878bbb2b4d8071cbc28887/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/cahyoapple45/.gradle/caches/transforms-3/0f7ee66c12878bbb2b4d8071cbc28887/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] /Users/cahyoapple45/.gradle/caches/transforms-3/a09ec6cb412a6b4e9dd0bc63c644afb6/transformed/jetified-lifecycle-livedata-core-ktx-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] /Users/cahyoapple45/.gradle/caches/transforms-3/a09ec6cb412a6b4e9dd0bc63c644afb6/transformed/jetified-lifecycle-livedata-core-ktx-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] /Users/cahyoapple45/.gradle/caches/transforms-3/5d4d99f117f20b7c330406641480f284/transformed/lifecycle-livedata-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] /Users/cahyoapple45/.gradle/caches/transforms-3/5d4d99f117f20b7c330406641480f284/transformed/lifecycle-livedata-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] /Users/cahyoapple45/.gradle/caches/transforms-3/d6f55652d133759bf47167968a19049a/transformed/lifecycle-viewmodel-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] /Users/cahyoapple45/.gradle/caches/transforms-3/d6f55652d133759bf47167968a19049a/transformed/lifecycle-viewmodel-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] /Users/cahyoapple45/.gradle/caches/transforms-3/791ac3879b79debb20a9bcb91ee22350/transformed/lifecycle-livedata-core-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] /Users/cahyoapple45/.gradle/caches/transforms-3/791ac3879b79debb20a9bcb91ee22350/transformed/lifecycle-livedata-core-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/cahyoapple45/.gradle/caches/transforms-3/c7f356c6b7bc4a1b9bddc504383cad4c/transformed/jetified-savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/cahyoapple45/.gradle/caches/transforms-3/c7f356c6b7bc4a1b9bddc504383cad4c/transformed/jetified-savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] /Users/cahyoapple45/.gradle/caches/transforms-3/510382138e25354741379153c2a8cfd9/transformed/lifecycle-runtime-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] /Users/cahyoapple45/.gradle/caches/transforms-3/510382138e25354741379153c2a8cfd9/transformed/lifecycle-runtime-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/cahyoapple45/.gradle/caches/transforms-3/f9ded53b8d55eaa10a5be647a1329cf9/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/cahyoapple45/.gradle/caches/transforms-3/f9ded53b8d55eaa10a5be647a1329cf9/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] /Users/cahyoapple45/.gradle/caches/transforms-3/60a3658e20535e19d04304b113218131/transformed/jetified-lifecycle-viewmodel-savedstate-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] /Users/cahyoapple45/.gradle/caches/transforms-3/60a3658e20535e19d04304b113218131/transformed/jetified-lifecycle-viewmodel-savedstate-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.13.1] /Users/cahyoapple45/.gradle/caches/transforms-3/97aa38d7910a05b33d1deb335f58a4ed/transformed/jetified-core-ktx-1.13.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.13.1] /Users/cahyoapple45/.gradle/caches/transforms-3/97aa38d7910a05b33d1deb335f58a4ed/transformed/jetified-core-ktx-1.13.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/cahyoapple45/.gradle/caches/transforms-3/3a570911098c199bc711d6071529b3b5/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/cahyoapple45/.gradle/caches/transforms-3/3a570911098c199bc711d6071529b3b5/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.1] /Users/cahyoapple45/.gradle/caches/transforms-3/dd1864a705b6759b642410eb2c889f8d/transformed/core-1.13.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.1] /Users/cahyoapple45/.gradle/caches/transforms-3/dd1864a705b6759b642410eb2c889f8d/transformed/core-1.13.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /Users/cahyoapple45/.gradle/caches/transforms-3/3cc8aafa8789d8888ff9fd49efac017e/transformed/jetified-annotation-experimental-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /Users/cahyoapple45/.gradle/caches/transforms-3/3cc8aafa8789d8888ff9fd49efac017e/transformed/jetified-annotation-experimental-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/cahyoapple45/.gradle/caches/transforms-3/fee8f31d98732e28922394d44cf04d18/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/cahyoapple45/.gradle/caches/transforms-3/fee8f31d98732e28922394d44cf04d18/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/cahyoapple45/.gradle/caches/transforms-3/62ae29cf385f9ead14b19413155ddfa4/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/cahyoapple45/.gradle/caches/transforms-3/62ae29cf385f9ead14b19413155ddfa4/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/cahyoapple45/.gradle/caches/transforms-3/a90c82843e8fe5edc6502e3e0ddffa34/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/cahyoapple45/.gradle/caches/transforms-3/a90c82843e8fe5edc6502e3e0ddffa34/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/cahyoapple45/.gradle/caches/transforms-3/56bcd9de62d8cabb4e0a5f5e537bb37a/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/cahyoapple45/.gradle/caches/transforms-3/56bcd9de62d8cabb4e0a5f5e537bb37a/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.2.0] /Users/cahyoapple45/.gradle/caches/transforms-3/16c628e648c3c982620cd59df1f630f7/transformed/jetified-tracing-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.2.0] /Users/cahyoapple45/.gradle/caches/transforms-3/16c628e648c3c982620cd59df1f630f7/transformed/jetified-tracing-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/cahyoapple45/.gradle/caches/transforms-3/3ff4ea69d6eb1542848adbfb5eed75ee/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/cahyoapple45/.gradle/caches/transforms-3/3ff4ea69d6eb1542848adbfb5eed75ee/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.window.extensions.core:core:1.0.0] /Users/cahyoapple45/.gradle/caches/transforms-3/952bd0f190fb86eeb742e5703b540c87/transformed/jetified-core-1.0.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.window.extensions.core:core:1.0.0] /Users/cahyoapple45/.gradle/caches/transforms-3/952bd0f190fb86eeb742e5703b540c87/transformed/jetified-core-1.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.getkeepsafe.relinker:relinker:1.4.5] /Users/cahyoapple45/.gradle/caches/transforms-3/8da9480dfc7074c45b43e89ccdb849a3/transformed/jetified-relinker-1.4.5/AndroidManifest.xml:5:5-43
+MERGED from [com.getkeepsafe.relinker:relinker:1.4.5] /Users/cahyoapple45/.gradle/caches/transforms-3/8da9480dfc7074c45b43e89ccdb849a3/transformed/jetified-relinker-1.4.5/AndroidManifest.xml:5:5-43
+	android:targetSdkVersion
+		INJECTED from /Users/cahyoapple45/Documents/flutter-project/api_news/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/cahyoapple45/Documents/flutter-project/api_news/android/app/src/main/AndroidManifest.xml
+activity#io.flutter.plugins.urllauncher.WebViewActivity
+ADDED from [:url_launcher_android] /Users/cahyoapple45/Documents/flutter-project/api_news/build/url_launcher_android/intermediates/merged_manifest/release/AndroidManifest.xml:8:9-11:74
+	android:exported
+		ADDED from [:url_launcher_android] /Users/cahyoapple45/Documents/flutter-project/api_news/build/url_launcher_android/intermediates/merged_manifest/release/AndroidManifest.xml:10:13-37
+	android:theme
+		ADDED from [:url_launcher_android] /Users/cahyoapple45/Documents/flutter-project/api_news/build/url_launcher_android/intermediates/merged_manifest/release/AndroidManifest.xml:11:13-71
+	android:name
+		ADDED from [:url_launcher_android] /Users/cahyoapple45/Documents/flutter-project/api_news/build/url_launcher_android/intermediates/merged_manifest/release/AndroidManifest.xml:9:13-74
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.2.0] /Users/cahyoapple45/.gradle/caches/transforms-3/4ebb674aa41412bc7425383262a543b4/transformed/jetified-window-1.2.0/AndroidManifest.xml:23:9-25:40
+	android:required
+		ADDED from [androidx.window:window:1.2.0] /Users/cahyoapple45/.gradle/caches/transforms-3/4ebb674aa41412bc7425383262a543b4/transformed/jetified-window-1.2.0/AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from [androidx.window:window:1.2.0] /Users/cahyoapple45/.gradle/caches/transforms-3/4ebb674aa41412bc7425383262a543b4/transformed/jetified-window-1.2.0/AndroidManifest.xml:24:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.2.0] /Users/cahyoapple45/.gradle/caches/transforms-3/4ebb674aa41412bc7425383262a543b4/transformed/jetified-window-1.2.0/AndroidManifest.xml:26:9-28:40
+	android:required
+		ADDED from [androidx.window:window:1.2.0] /Users/cahyoapple45/.gradle/caches/transforms-3/4ebb674aa41412bc7425383262a543b4/transformed/jetified-window-1.2.0/AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [androidx.window:window:1.2.0] /Users/cahyoapple45/.gradle/caches/transforms-3/4ebb674aa41412bc7425383262a543b4/transformed/jetified-window-1.2.0/AndroidManifest.xml:27:13-51
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/cahyoapple45/.gradle/caches/transforms-3/f9ded53b8d55eaa10a5be647a1329cf9/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/cahyoapple45/.gradle/caches/transforms-3/a90c82843e8fe5edc6502e3e0ddffa34/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/cahyoapple45/.gradle/caches/transforms-3/a90c82843e8fe5edc6502e3e0ddffa34/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/cahyoapple45/.gradle/caches/transforms-3/56bcd9de62d8cabb4e0a5f5e537bb37a/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/cahyoapple45/.gradle/caches/transforms-3/56bcd9de62d8cabb4e0a5f5e537bb37a/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/cahyoapple45/.gradle/caches/transforms-3/f9ded53b8d55eaa10a5be647a1329cf9/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/cahyoapple45/.gradle/caches/transforms-3/f9ded53b8d55eaa10a5be647a1329cf9/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/cahyoapple45/.gradle/caches/transforms-3/f9ded53b8d55eaa10a5be647a1329cf9/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/cahyoapple45/.gradle/caches/transforms-3/f9ded53b8d55eaa10a5be647a1329cf9/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/cahyoapple45/.gradle/caches/transforms-3/f9ded53b8d55eaa10a5be647a1329cf9/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/cahyoapple45/.gradle/caches/transforms-3/f9ded53b8d55eaa10a5be647a1329cf9/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/cahyoapple45/.gradle/caches/transforms-3/f9ded53b8d55eaa10a5be647a1329cf9/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:30:17-78
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] /Users/cahyoapple45/.gradle/caches/transforms-3/dd1864a705b6759b642410eb2c889f8d/transformed/core-1.13.1/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] /Users/cahyoapple45/.gradle/caches/transforms-3/dd1864a705b6759b642410eb2c889f8d/transformed/core-1.13.1/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] /Users/cahyoapple45/.gradle/caches/transforms-3/dd1864a705b6759b642410eb2c889f8d/transformed/core-1.13.1/AndroidManifest.xml:23:9-81
+permission#com.example.api_news.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] /Users/cahyoapple45/.gradle/caches/transforms-3/dd1864a705b6759b642410eb2c889f8d/transformed/core-1.13.1/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] /Users/cahyoapple45/.gradle/caches/transforms-3/dd1864a705b6759b642410eb2c889f8d/transformed/core-1.13.1/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] /Users/cahyoapple45/.gradle/caches/transforms-3/dd1864a705b6759b642410eb2c889f8d/transformed/core-1.13.1/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] /Users/cahyoapple45/.gradle/caches/transforms-3/dd1864a705b6759b642410eb2c889f8d/transformed/core-1.13.1/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] /Users/cahyoapple45/.gradle/caches/transforms-3/dd1864a705b6759b642410eb2c889f8d/transformed/core-1.13.1/AndroidManifest.xml:26:22-94
+uses-permission#com.example.api_news.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] /Users/cahyoapple45/.gradle/caches/transforms-3/dd1864a705b6759b642410eb2c889f8d/transformed/core-1.13.1/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] /Users/cahyoapple45/.gradle/caches/transforms-3/dd1864a705b6759b642410eb2c889f8d/transformed/core-1.13.1/AndroidManifest.xml:26:22-94
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/cahyoapple45/.gradle/caches/transforms-3/a90c82843e8fe5edc6502e3e0ddffa34/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/cahyoapple45/.gradle/caches/transforms-3/a90c82843e8fe5edc6502e3e0ddffa34/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/cahyoapple45/.gradle/caches/transforms-3/a90c82843e8fe5edc6502e3e0ddffa34/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/cahyoapple45/.gradle/caches/transforms-3/a90c82843e8fe5edc6502e3e0ddffa34/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/cahyoapple45/.gradle/caches/transforms-3/a90c82843e8fe5edc6502e3e0ddffa34/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/cahyoapple45/.gradle/caches/transforms-3/a90c82843e8fe5edc6502e3e0ddffa34/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/cahyoapple45/.gradle/caches/transforms-3/a90c82843e8fe5edc6502e3e0ddffa34/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/cahyoapple45/.gradle/caches/transforms-3/a90c82843e8fe5edc6502e3e0ddffa34/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/cahyoapple45/.gradle/caches/transforms-3/a90c82843e8fe5edc6502e3e0ddffa34/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/cahyoapple45/.gradle/caches/transforms-3/a90c82843e8fe5edc6502e3e0ddffa34/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/cahyoapple45/.gradle/caches/transforms-3/a90c82843e8fe5edc6502e3e0ddffa34/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/cahyoapple45/.gradle/caches/transforms-3/a90c82843e8fe5edc6502e3e0ddffa34/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/cahyoapple45/.gradle/caches/transforms-3/a90c82843e8fe5edc6502e3e0ddffa34/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/cahyoapple45/.gradle/caches/transforms-3/a90c82843e8fe5edc6502e3e0ddffa34/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/cahyoapple45/.gradle/caches/transforms-3/a90c82843e8fe5edc6502e3e0ddffa34/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/cahyoapple45/.gradle/caches/transforms-3/a90c82843e8fe5edc6502e3e0ddffa34/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/cahyoapple45/.gradle/caches/transforms-3/a90c82843e8fe5edc6502e3e0ddffa34/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/cahyoapple45/.gradle/caches/transforms-3/a90c82843e8fe5edc6502e3e0ddffa34/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/cahyoapple45/.gradle/caches/transforms-3/a90c82843e8fe5edc6502e3e0ddffa34/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/cahyoapple45/.gradle/caches/transforms-3/a90c82843e8fe5edc6502e3e0ddffa34/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/cahyoapple45/.gradle/caches/transforms-3/a90c82843e8fe5edc6502e3e0ddffa34/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:50:25-92
